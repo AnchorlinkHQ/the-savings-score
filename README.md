@@ -105,6 +105,11 @@ Other inputs are also used, such as current income, bank balance etc.
 
 ##### Notes *
 I am seeking reliable data (country by country) to compute the relevant range deviance needed for each input. Any help is much appreciated. Opening an issue on this repository will contribute to the discussion.
+
+
+##### Demo
+An interactive code demo is available https://dartpad.dev/06002950f16ccee3bce7dba88e4fb9f0 . The variables ```income```, ```savings``` and ```saved``` can be changed to fit your finances. Hit the run button for the savings score to be displayed in the console window. 
+
 <br>
 <br>
 <img height="33px" src="./anchorlink_logo.png" />
